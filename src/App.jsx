@@ -13,6 +13,7 @@ const App = () => {
                 <Tech/>
                 <Works/>
                 <Feedbacks/>
+                <Contact/>
             </div>
         </Router>
     )
